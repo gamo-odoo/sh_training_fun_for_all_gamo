@@ -5,4 +5,4 @@ There are somemodule in here taken straight from odoo community, just as example
 
 Test edit from gamo, then I'll push the commit
 
-Step 17 test
+Step 17 test after fix
